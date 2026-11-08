@@ -1,0 +1,12 @@
+--- 
+publish: true 
+---
+Au début, Vassili ne faisait que passer des messages. Il courait entre les immeubles, les quais et les arrière-cours, portant des mots qui ne devaient jamais être prononcés à voix haute. Il observait les rues, comptait les voitures, notait les visages inconnus, signalait les patrouilles, les rivaux, les mouvements suspects. Il savait se fondre dans la foule, se faire petit, invisible. Un gamin discret, rapide, utile précisément parce qu’il savait se taire.
+
+On l’appelait parfois « le moineau ».
+
+Non pas par tendresse, mais parce qu’il était partout et que personne ne pensait à le retenir. Puis les années passèrent. Vassili grandit, et le quartier changea autour de lui sans jamais vraiment changer. Les mêmes clans se disputaient les mêmes territoires. Les mêmes hommes disparaissaient. Les mêmes dettes se transmettaient de père en fils, comme une malédiction. Lui-même avait cessé d’être un enfant sans s’en rendre compte. Ses mains n’étaient plus celles d’un coursier. Son regard n’était plus celui d’un guetteur. On lui confia des tâches plus lourdes.
+
+D’abord, il dut accompagner les anciens lors des « discussions » avec les clients en retard. Il se tenait derrière eux, silencieux, massif, suffisant à faire comprendre le message. Puis il apprit à frapper. À immobiliser. À faire peur sans laisser de marque, lorsque la marque pouvait poser problème. Plus tard, il apprit à laisser des marques lorsque, au contraire, il fallait que tout le quartier comprenne. Il n’avait pas de titre, pas de rang, pas de nom à faire respecter. Il était un rouage interchangeable d’une machine criminelle bien huilée : on l’envoyait là où il fallait une présence, une menace, une correction. Il protégeait les entrepôts, escortait les cargaisons, réglait les comptes, surveillait ceux qui commençaient à parler trop fort. Lorsqu’un travail exigeait de la discrétion, on lui faisait confiance. Lorsqu’il exigeait de la brutalité, on faisait de même.
+
+Vassili ne se considérait pas comme un monstre. Il se disait qu’il n’avait jamais eu le choix, que la ville l’avait façonné ainsi, que tout homme des docks finissait par porter du sang sous les ongles. Il se disait qu’il faisait partie d’une famille, d’un ordre, d’une structure qui le protégeait. Il se disait que ceux qu’il frappait avaient choisi leur chemin.
